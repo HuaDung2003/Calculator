@@ -95,6 +95,17 @@
             this.btCong.UseVisualStyleBackColor = true;
             this.btCong.Click += new System.EventHandler(this.button1_Click);
             // 
+            // bttru
+            // 
+            this.btTru.ForeColor = System.Drawing.Color.Red;
+            this.btTru.Location = new System.Drawing.Point(248, 160);
+            this.btTru.Name = "btTru";
+            this.btTru.Size = new System.Drawing.Size(112, 34);
+            this.btTru.TabIndex = 3;
+            this.bttru.Text = "Trừ";
+            this.btTru.UseVisualStyleBackColor = true;
+            this.btTru.Click += new System.EventHandler(this.btTru_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
