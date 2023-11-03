@@ -123,5 +123,6 @@
         private TextBox textBox2;
         private TextBox textBox3;
         private Button btCong;
+        private Button btTru;
     }
 }
